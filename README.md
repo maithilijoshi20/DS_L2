@@ -1,4 +1,4 @@
-# Data Science and Machine Learning Study Guide
+# Data Science Level 2 Study Guide
 
 These 23 English lessons introduce statistics, data preparation, and machine learning for readers who know programming and basic descriptive statistics. Read them in order: later lessons build on earlier concepts. Each guide stands on its own, with diagrams and short examples to explain the theory.
 
